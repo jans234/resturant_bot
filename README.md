@@ -1,9 +1,9 @@
-**Project Overview**
+**Project Overview**:
 
 The Crimson Dine Restaurant ChatBot is an AI-powered chatbot designed to assist customers in finding fast food deals, menu information, and special offers at the restaurant. Built using a Retrieval-Augmented Generation (RAG) system, the chatbot retrieves relevant data from a collection of documents and uses AI to generate informative responses.
 The chatbot is deployed with a Streamlit interface and provides an engaging, easy-to-use chat experience. By integrating a RAG system, the chatbot ensures that customers receive accurate and contextually relevant information when inquiring about fast food deals or other restaurant-related questions.
 
-**Features**
+**Features**:
 
 **Interactive Chat Interface:** Users can interact with the chatbot using a friendly chat interface to get information about fast food deals and menu items.
 

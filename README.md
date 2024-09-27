@@ -9,7 +9,7 @@ The chatbot is deployed with a Streamlit interface and provides an engaging, eas
 
 **Retrieval-Augmented Generation (RAG) System:** The chatbot uses a RAG system to retrieve relevant deal information from a document store and generate responses based on user queries.
 
-**Fast Food Deal Information: **The chatbot provides users with details about current fast food deals, including pricing and meal options.
+**Fast Food Deal Information:** The chatbot provides users with details about current fast food deals, including pricing and meal options.
 
 **Intelligent Meal Recommendations:** Using AI, the chatbot suggests meals or deals based on user preferences and queries, enhancing the customer experience.
 

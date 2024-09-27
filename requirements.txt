@@ -11,3 +11,4 @@ gunicorn==22.0.0
 tqdm
 streamlit
 streamlit-chat
+pysqlite3-binary==0.5.3

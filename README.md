@@ -1,9 +1,20 @@
-Overview
-Crimson Dine Restaurant ChatBot is an intelligent chatbot designed to assist customers with queries related to fast food deals available at Crimson Dine. The chatbot is built using Streamlit, and it provides customers with relevant information about the restaurant's deals, pricing, and recommendations in an interactive chat interface.
-The chatbot helps users find fast food deals, answers common menu questions, and provides a seamless customer service experience. It is especially useful for customers looking to quickly access restaurant offerings without navigating through a complex menu.  
+**Project Overview**
+The Crimson Dine Restaurant ChatBot is an AI-powered chatbot designed to assist customers in finding fast food deals, menu information, and special offers at the restaurant. Built using a Retrieval-Augmented Generation (RAG) system, the chatbot retrieves relevant data from a collection of documents and uses AI to generate informative responses.
+The chatbot is deployed with a Streamlit interface and provides an engaging, easy-to-use chat experience. By integrating a RAG system, the chatbot ensures that customers receive accurate and contextually relevant information when inquiring about fast food deals or other restaurant-related questions.
 
 **Features**
-Chat-based Interaction: Customers can interact with the chatbot via a simple text input.
-Fast Food Deal Recommendations: The chatbot provides information on various fast food deals, including pricing and ingredients.
-Session Memory: The chatbot maintains conversation context throughout the session.
-User-Friendly Interface: The chatbot is built using Streamlit, providing a responsive and easy-to-use interface for users.
+Interactive Chat Interface: Users can interact with the chatbot using a friendly chat interface to get information about fast food deals and menu items.
+
+Retrieval-Augmented Generation (RAG) System: The chatbot uses a RAG system to retrieve relevant deal information from a document store and generate responses based on user queries.
+
+Fast Food Deal Information: The chatbot provides users with details about current fast food deals, including pricing and meal options.
+
+Intelligent Meal Recommendations: Using AI, the chatbot suggests meals or deals based on user preferences and queries, enhancing the customer experience.
+
+Personalized Responses: The chatbot tracks previous interactions within the session to deliver personalized recommendations and maintain conversation context.
+
+Streamlit-based Interface: Built using Streamlit, the chatbot has a responsive and clean web interface that makes interacting with it easy and intuitive.
+
+Session Persistence: The chatbot saves conversation history within each session, enabling it to keep track of user interactions and deliver more relevant responses.
+
+AI-Powered Conversations: The chatbot leverages AI to generate coherent and accurate answers based on both retrieved data and user inputs.

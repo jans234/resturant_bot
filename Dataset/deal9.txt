@@ -1,0 +1,6 @@
+ID: 00000000000000000000009
+name: Sushi Sampler
+description: "An assortment of our best sushi rolls"
+price: 18.99
+category: meals
+availability: Daily from 12 PM to 10 PM

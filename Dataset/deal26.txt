@@ -1,0 +1,6 @@
+ID: 00000000000000000000026
+name: Platter
+description: "chicken beef and fish platter with a drink"
+price: 12.49
+category: meals
+availability: Daily from 11 AM to 9 PM

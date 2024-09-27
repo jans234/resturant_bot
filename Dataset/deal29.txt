@@ -1,0 +1,6 @@
+ID: 00000000000000000000029
+name: Soup and Salad
+description: "Unlimited soup and salad bar access"
+price: 10.99
+category: meals
+availability: Daily from 11 AM to 9 PM

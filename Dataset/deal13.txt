@@ -1,0 +1,6 @@
+ID: 00000000000000000000013
+name: Vegan Delight
+description: "Quinoa bowl with roasted vegetables and tofu"
+price: 13.99
+category: meals
+availability: Daily from 11 AM to 9 PM

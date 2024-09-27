@@ -1,0 +1,6 @@
+ID: 00000000000000000000024
+name: Mint Margarita 
+description: "Half-off all glasses of Mint Margarita "
+price: Varies
+category: beverages
+availability: Wednesdays from 5 PM to 10 PM

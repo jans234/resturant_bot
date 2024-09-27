@@ -1,0 +1,6 @@
+ID: 00000000000000000000004
+name: Dessert Delight
+description: "Choice of any dessert with a coffee"
+price: 5.99
+category: desserts
+availability: Daily from 2 PM to 5 PM

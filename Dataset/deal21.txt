@@ -1,0 +1,6 @@
+ID: 00000000000000000000021
+name: Sunday Brunch
+description: "Buffet-style brunch with unlimited mimosas"
+price: 25.99
+category: meals
+availability: Sundays from 10 AM to 2 PM

@@ -1,0 +1,6 @@
+ID: 00000000000000000000012
+name: Seafood Feast
+description: "Grilled salmon, shrimp, and scallops with sides"
+price: 24.99
+category: meals
+availability: Fridays and Saturdays from 5 PM to 10 PM

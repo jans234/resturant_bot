@@ -1,0 +1,6 @@
+ID: 00000000000000000000006
+name: Breakfast Bonanza
+description: "Pancakes, eggs, bacon, and coffee"
+price: 9.99
+category: breakfast
+availability: Daily from 6 AM to 11 AM

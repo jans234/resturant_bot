@@ -1,0 +1,6 @@
+ID: 00000000000000000000018
+name: Coffee and Cake
+description: "Any slice of cake with a hot beverage"
+price: 6.99
+category: desserts
+availability: Daily from 2 PM to 5 PM

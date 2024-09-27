@@ -1,0 +1,6 @@
+ID: 00000000000000000000027
+name: Student Special
+description: "Burger, fries, and a soda with student ID"
+price: 9.99
+category: meals
+availability: Monday to Friday from 11 AM to 4 PM

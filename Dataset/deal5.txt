@@ -1,0 +1,6 @@
+ID: 00000000000000000000005
+name: Happy Hour Special
+description: "Half-priced appetizers and drinks"
+price: Varies
+category: specials
+availability: Monday to Friday from 4 PM to 6 PM

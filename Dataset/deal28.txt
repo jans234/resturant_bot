@@ -1,0 +1,6 @@
+ID: 00000000000000000000028
+name: Chicken Trio
+description: "Grilled, fried, and roasted chicken sampler"
+price: 16.99
+category: meals
+availability: Daily from 11 AM to 10 PM

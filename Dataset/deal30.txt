@@ -1,0 +1,6 @@
+ID: 00000000000000000000030
+name: Afghan Zinger Burger
+description: "Afghan Zinger Burger with chicken sausage and Beef sausage"
+price: 10.99
+category: meals
+availability: Daily from 11 AM to 1 AM

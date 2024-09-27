@@ -1,0 +1,6 @@
+ID: 00000000000000000000010
+name: Wing Wednesday
+description: "10 wings with your choice of sauce"
+price: 7.99
+category: appetizers
+availability: Wednesdays all day

@@ -1,0 +1,6 @@
+ID: 00000000000000000000020
+name: Family Feast
+description: "Two large pizzas, breadsticks, and a 2-liter soda"
+price: 29.99
+category: meals
+availability: Daily from 11 AM to 9 PM

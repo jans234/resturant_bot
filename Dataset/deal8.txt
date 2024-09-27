@@ -1,0 +1,6 @@
+ID: 00000000000000000000008
+name: Pasta Perfection
+description: "Any pasta dish with garlic bread and a salad"
+price: 14.99
+category: meals
+availability: Daily from 5 PM to 10 PM

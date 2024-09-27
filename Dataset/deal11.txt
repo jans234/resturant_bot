@@ -1,0 +1,6 @@
+ID: 00000000000000000000011
+name: Salad Sensation
+description: "Any large salad with a cup of soup"
+price: 11.49
+category: meals
+availability: Daily from 11 AM to 9 PM

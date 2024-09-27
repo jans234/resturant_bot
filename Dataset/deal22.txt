@@ -1,0 +1,6 @@
+ID: 00000000000000000000022
+name: Fish Fry Friday
+description: "Fried fish with coleslaw and fries"
+price: 13.99
+category: meals
+availability: Fridays from 11 AM to 10 PM

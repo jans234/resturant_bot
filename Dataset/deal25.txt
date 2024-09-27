@@ -1,0 +1,6 @@
+ID: 00000000000000000000025
+name: Chicken Showarma 
+description: "Chicken Showarma With Fries and Drink"
+price: Varies
+category: appetizers
+availability: Daily from 9 PM to 11 PM

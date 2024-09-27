@@ -1,0 +1,6 @@
+ID: 00000000000000000000015
+name: Smoothie Special
+description: "Any smoothie with a protein boost"
+price: 5.49
+category: beverages
+availability: Daily from 8 AM to 8 PM

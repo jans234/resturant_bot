@@ -1,0 +1,6 @@
+ID: 00000000000000000000023
+name: Ice Cream Sundae
+description: "Build-your-own ice cream sundae"
+price: 4.99
+category: desserts
+availability: Daily from 11 AM to 10 PM

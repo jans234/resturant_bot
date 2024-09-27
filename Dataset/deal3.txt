@@ -1,0 +1,6 @@
+ID: 00000000000000000000003
+name: Kids Special
+description: "Kid-sized burger, small fries, and a juice box"
+price: 6.99
+category: meals
+availability: Weekends from 11 AM to 8 PM

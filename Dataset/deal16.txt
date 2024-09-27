@@ -1,0 +1,6 @@
+ID: 00000000000000000000016
+name: Steak Night
+description: "Grilled ribeye with mashed potatoes and veggies"
+price: 22.99
+category: meals
+availability: Saturdays from 5 PM to 10 PM

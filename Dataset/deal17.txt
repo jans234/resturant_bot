@@ -1,0 +1,6 @@
+ID: 00000000000000000000017
+name: Lunch Combo
+description: "Half sandwich with soup or salad"
+price: 8.49
+category: meals
+availability: Monday to Friday from 11 AM to 2 PM
